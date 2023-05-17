@@ -1,0 +1,6 @@
+version: 1.0.0
+location: <location of nodejs app>
+linux_name: <any user name for linux>
+user_home_dir: /home/{{linux_name}}
+
+docker_password: xxxxxxx
