@@ -1,5 +1,5 @@
 [node_server]
-<nexus-server-ip> ansible_ssh_private_key_file=~/.ssh/id_rsa ansible_user=root
+<node-server-ip> ansible_ssh_private_key_file=~/.ssh/id_rsa ansible_user=root
 
 [nexus_server]
 <nexus-server-ip> ansible_ssh_private_key_file=~/.ssh/id_rsa ansible_user=root
